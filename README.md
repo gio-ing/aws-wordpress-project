@@ -82,7 +82,7 @@ terraform plan -var-file=../variables/prod-terraform.tfvars
 read the output and check if it is expected, after that run 
 
 ```
-terraform apply -var-file=../variables/qa-terraform.tfvars
+terraform apply -var-file=../variables/prod-terraform.tfvars
 ```
 
 
