@@ -1,4 +1,4 @@
-# aws-wordpress-project
+# Project: aws-wordpress-project
 Architecture for a wordpress application in AWS
 
 ## Requirements
@@ -28,6 +28,8 @@ Architecture for a wordpress application in AWS
 Modify the variable "wp_version" with the desire wordpress version
 
 ## Contents
+
+![Architecture](./architecture.png)
 
 The repository contains the necessary YAML files to deploy the following infrastructure to host a WordPress application in two environment (called QA and PROD).
 
